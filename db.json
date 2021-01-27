@@ -1,6 +1,7 @@
 
 {
-   "code": "1":{
+   "ListAttributes":{
+   "1":{
       "method":"email",
       "tests":"100"
    },
@@ -25,5 +26,6 @@
          "/cpf/"
       ],
       "tests":10
+   }
    }
 }
