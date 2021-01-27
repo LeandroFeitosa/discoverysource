@@ -1,33 +1,28 @@
-
 {
-    "code":"1",
+   "1":{
       "method":"email",
       "tests":"100"
    },
-   {
-      "code":"2",
+   "2":{
       "method":"cpf",
       "tests":100
    },
-   {
-      "code":"3",
+   "3":{
       "method":"credicard",
       "tests":10
    },
-   {
-      "code":"4",
+   "4":{
       "method":"regex",
       "parameters":[
          "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$"
       ],
       "tests":10
    },
-   {
-      "code":"5",
+   "5":{
       "method":"column",
       "parameters":[
          "/cpf/"
       ],
       "tests":10
    }
-
+}
