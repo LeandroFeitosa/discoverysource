@@ -24,7 +24,7 @@
    {
 	 "code":"5",
       "method":"column",
-      "parameters":/cpf/", 
+      "parameters":"/cpf/", 
       "tests":10
    }
 	   ,
