@@ -18,9 +18,7 @@
    {
 	 "code":"4",
       "method":"regex",
-      "parameters":[
-         "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$"
-      ],
+      "parameters":"^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$",
       "tests":10
    },
    {
@@ -35,9 +33,7 @@
    {
 	 "code":"6",
       "method":"column",
-      "parameters":[
-         "/cpf/"
-      ],
+      "parameters":"/cpf/",
       "tests":10
    }
 ]
