@@ -1,33 +1,35 @@
 {
-   "MethodRule":{
-      "code":"1",
+   "MethodsRules":[
+      {
+		"code":"1",
       "method":"email",
       "tests":"100"
    },
-   "MethodRule":{
-      "code":"2",
+  {
+	"code":"2",
       "method":"cpf",
       "tests":100
    },
-   "MethodRule":{
-      "code":"3",
+   {
+	 "code":"3",
       "method":"credicard",
       "tests":10
    },
-   "MethodRule":{
-      "code":"4",
+   {
+	 "code":"4",
       "method":"regex",
       "parameters":[
          "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$"
       ],
       "tests":10
    },
-   "MethodRule":{
-      "code":"5",
+   {
+	 "code":"5",
       "method":"column",
       "parameters":[
          "/cpf/"
       ],
       "tests":10
    }
+]
 }
