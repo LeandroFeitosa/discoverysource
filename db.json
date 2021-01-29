@@ -27,12 +27,6 @@
       "parameters":"/cpf/", 
       "tests":10
    }
-	   ,
-   {
-	 "code":"6",
-      "method":"column",
-      "parameters":"/cpf/",
-      "tests":10
-   }
+
 ]
 }
