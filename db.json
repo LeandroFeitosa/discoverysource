@@ -1,49 +1,52 @@
-{'discoverySearchId': 1,
-    'discoveryRules': [
-        {
-            discoveryRuleId: 1
-        },
-        {
-            discoveryRuleId: 4
-        }
-    ],
-    'parameters': {
-        'contains': [
-            'leandro.feitosa@privally.global'
-        ]
-    },
-    'requestedAt': '2021/02/11 12:00:00',
-    'isPending': true,
-    'isProcessing': false,
-    'startedAt': null,
-    'isComplete': false,
-    'finishedAt': null,
-    'createdAt': null,
-    'updatedAt': null,
-    'isActive': true,
-    'isDeleted': false
-}
-    {
-    'discoverySearchId': 2,
-    'discoveryRules': [
-        {
-            discoveryRuleId: 2
-        }
-    ],
-    'parameters': {
-        'contains': [
-            '\177.912.568-27\',
-            '\17791256827'
-        ]
-    },
-    'requestedAt': '2021/02/11 12:00:00',
-    'isPending': true,
-    'isProcessing': false,
-    'startedAt': null,
-    'isComplete': false,
-    'finishedAt': null,
-    'createdAt': null,
-    'updatedAt': null,
-    'isActive': true,
-    'isDeleted': false
-}
+[
+   {
+      "discoverySearchId":1,
+      "discoveryRules":[
+         {
+            "discoveryRuleId":1
+         },
+         {
+            "discoveryRuleId":4
+         }
+      ],
+      "parameters":{
+         "contains":[
+            "leandro.feitosa@privally.global"
+         ]
+      },
+      "requestedAt":"2021/02/11 12:00:00",
+      "isPending":true,
+      "isProcessing":false,
+      "startedAt":null,
+      "isComplete":false,
+      "finishedAt":null,
+      "createdAt":null,
+      "updatedAt":null,
+      "isActive":true,
+      "isDeleted":false
+   },
+   {
+      "discoverySearchId":2,
+      "discoveryRules":[
+         {
+            "discoveryRuleId":2
+         }
+      ],
+      "parameters":{
+         "contains":[
+            "177.912.568-27",
+            "17791256827"
+         ]
+      },
+      "requestedAt":"2021/02/11 12:00:00",
+      "isPending":true,
+      "isProcessing":false,
+      "startedAt":null,
+      "isComplete":false,
+      "finishedAt":null,
+      "createdAt":null,
+      "updatedAt":null,
+      "isActive":true,
+      "isDeleted":false
+   }
+]
